@@ -1,0 +1,1 @@
+This is a Minimalist Bank Marketing Project done as part of the Udemy Course https://www.udemy.com/course/the-complete-javascript-course/ 
